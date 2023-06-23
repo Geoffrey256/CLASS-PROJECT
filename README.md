@@ -1,4 +1,5 @@
-# hello_world
+# CLASS TRIAL PROJECT
+This project is the start up and preparation for the incoming android App development.
 
 A new Flutter project created with https://flutlab.io
 
